@@ -1,0 +1,6 @@
+{
+  "name": "FabTwin - Semiconductor Yield Simulation",
+  "description": "Synthetic semiconductor fab yield simulation dashboard and 3D digital wafer twin for processor binning, defect prevention, and process parameter analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
